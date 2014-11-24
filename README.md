@@ -3,7 +3,7 @@ Message IT
 
 APRS - Automatic Packet Reporting System, is a location radio system which can be used to capture what’s happening around you.
 
-This project was written in the course "Project Practice" in 2012 (2rd year of university) as a group of five.
+This project was written in the course "Project Practice" in 2012 (2nd year of university) as a group of five.
 
 Since there is a problem that you don’t always have access to APRS, eg. no internet connection or out of range of radio
 
